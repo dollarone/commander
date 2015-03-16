@@ -1,2 +1,2 @@
 # commander
-A card game (ish)
+A card game (ish).
